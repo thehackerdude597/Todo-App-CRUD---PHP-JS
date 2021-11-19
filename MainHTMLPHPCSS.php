@@ -134,6 +134,10 @@
      #usereward{
        text-align: center;
      }
+      
+     label{
+       color: white;
+      }
     
     </style>
 
